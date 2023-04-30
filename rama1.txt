@@ -1,3 +1,7 @@
 Primera Linea
 Segunda Linea
+<<<<<<< HEAD
 Tercera Linea master
+=======
+Tercera Linea
+>>>>>>> miramaDavid
